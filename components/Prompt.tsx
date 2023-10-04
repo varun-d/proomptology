@@ -1,7 +1,7 @@
 import { Badge } from "./ui/badge";
 import { Button } from "@/components/ui/button";
 
-export default function Proompt() {
+export default function Prompt() {
   return (
     <div className="max-w-lg rounded-md border p-4">
       <div className="flex items-center justify-between py-2">
